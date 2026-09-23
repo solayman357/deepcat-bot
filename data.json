@@ -1,14 +1,3 @@
 {
-  "users": {
-    "7176002628": {
-      "phone": "01902214912",
-      "password": "solayman",
-      "token": "858cdd8f-9c41-486a-babe-9ed07976c1e3",
-      "tokenExpiry": 1790150656676,
-      "userNo": "2668957",
-      "chatId": 7176002628,
-      "autoEnabled": true,
-      "lastCheckIn": ""
-    }
-  }
+  "users": {}
 }
