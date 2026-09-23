@@ -1,7 +1,7 @@
 {
   "name": "deepcat-bot",
   "version": "1.0.0",
-  "description": "DeepCat auto check-in + order invest",
+  "description": "DeepCat auto check-in + order invest (Telegram)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
