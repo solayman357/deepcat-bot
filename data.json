@@ -19,6 +19,16 @@
       "chatId": 8399473143,
       "autoEnabled": true,
       "lastCheckIn": ""
+    },
+    "7176002628": {
+      "phone": "01902214912",
+      "password": "solayman",
+      "token": "59f761e8-4c96-4da3-b744-f83a0e5e3d6c",
+      "tokenExpiry": 1790240089338,
+      "userNo": "2668957",
+      "chatId": 7176002628,
+      "autoEnabled": true,
+      "lastCheckIn": ""
     }
   }
 }
