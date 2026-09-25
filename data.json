@@ -1,15 +1,5 @@
 {
   "users": {
-    "8228963350": {
-      "phone": "01625843431",
-      "password": "Solaiman",
-      "token": "166e7553-f0c8-45d1-8b72-84d7ee25a149",
-      "tokenExpiry": 1790320310623,
-      "userNo": "2511054",
-      "chatId": 8228963350,
-      "autoEnabled": true,
-      "lastCheckIn": ""
-    },
     "8399473143": {
       "phone": "01624642535",
       "password": "2421400",
