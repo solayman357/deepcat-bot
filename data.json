@@ -18,17 +18,17 @@
       "userNo": "2737650",
       "chatId": 8399473143,
       "autoEnabled": true,
-      "lastCheckIn": ""
+      "lastCheckIn": "2026-09-25, 12:00:41 p.m."
     },
     "7176002628": {
       "phone": "01902214912",
       "password": "solayman",
-      "token": "6d856d2f-9584-48cb-bf11-6c1d1ca489e9",
-      "tokenExpiry": 1790316450223,
+      "token": "bfbd817d-333d-4dae-badf-22d5e9e231d7",
+      "tokenExpiry": 1790319522543,
       "userNo": "2668957",
       "chatId": 7176002628,
       "autoEnabled": true,
-      "lastCheckIn": ""
+      "lastCheckIn": "2026-09-25, 12:00:42 p.m."
     }
   }
 }
